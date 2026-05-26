@@ -1,5 +1,5 @@
 # api-boilerplate
-Step-by-Step Guide
+
 1️⃣ Collect the Dataset
 Size: ≥ 1 GB (e.g., image dataset like ImageNet subset, large CSV logs, or audio files)
 
