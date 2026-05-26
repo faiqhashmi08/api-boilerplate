@@ -36,7 +36,7 @@ This repository provides a **production-ready machine learning pipeline** for ha
 4. [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) - 743MB
 
 
-🚀 API-BOILERPLATE: LARGE SCALE CLASSIFICATION PIPELINE
+# 🚀 API-BOILERPLATE: LARGE SCALE CLASSIFICATION PIPELINE
 
 📦 STEP 1: Loading Large Dataset (1GB+)
    Generating 5,000,000 samples with 50 features...
@@ -68,7 +68,7 @@ Plot	Description
 classification_results.png	4-in-1: Confusion matrix, Feature importance, ROC curves, Training progress
 additional_metrics.png	Class distribution & prediction confidence histograms
 
-Project Structure
+# Project Structure
 text
 api-boilerplate/
 
@@ -105,25 +105,25 @@ Benchmarked on AWS c5.2xlarge (8 vCPU, 16GB RAM)
 GitHub Repository: https://github.com/faiqhashmi08/api-boilerplate
 
 Name: Muhammad Talha
-
 Roll No: F22BSEEN1E02094
 
 # DETAILS
-📊 Dataset: Synthetic (5M samples, 50 features) - 2.0 GB
-🤖 Model: Random Forest (50 estimators, max_depth=15)
-📈 Accuracy: 87.42%
-⏱️ Training Time: 45 seconds
-📁 Files: main.py, requirements.txt, README.md, LICENSE
 
-📸 Output Graphs:
+   📊 Dataset: Synthetic (5M samples, 50 features) - 2.0 GB
+   🤖 Model: Random Forest (50 estimators, max_depth=15)
+   📈 Accuracy: 87.42%
+   ⏱️ Training Time: 45 seconds
+   📁 Files: main.py, requirements.txt, README.md, LICENSE
+
+# 📸 Output Graphs:
 - classification_results.png (Confusion Matrix, ROC, Feature Importance)
 - additional_metrics.png (Class Distribution, Confidence Scores)
 
-🚀 Quick Run:
+# 🚀 Quick Run:
 git clone https://github.com/\faiqhashmi08/api-boilerplate.git
 cd api-boilerplate
 pip install -r requirements.txt
 python main.py
 
-💡 Open Source | MIT License | Contributions Welcome
+# 💡 Open Source | MIT License | Contributions Welcome
    
