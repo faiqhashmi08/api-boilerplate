@@ -40,20 +40,27 @@ This repository provides a **production-ready machine learning pipeline** for ha
 
 📦 STEP 1: Loading Large Dataset (1GB+)
    Generating 5,000,000 samples with 50 features...
+ 
    ✅ Dataset created: 10 partitions
    💾 Approximate size: 2.00 GB
 
 🔧 STEP 2: Preprocessing Dataset
+ 
    ✅ Missing values handled (1% NaNs)
+ 
    ✅ Features normalized (mean=0, std=1)
+
    ✅ Train set: 4,000,000 samples
+  
    ✅ Test set: 1,000,000 samples
 
 🤖 STEP 4: Training Random Forest Classifier
+ 
    ✅ Training completed in 45.32 seconds
    📊 Model Performance: Accuracy: 0.8742 (87.42%)
 
 📈 STEP 5: Generating Visualizations
+  
    ✅ Graph saved as 'classification_results.png'
 
 # Generated Plots
