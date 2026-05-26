@@ -108,6 +108,7 @@ Name: Muhammad Talha
 
 Roll No: F22BSEEN1E02094
 
+# DETAILS
 📊 Dataset: Synthetic (5M samples, 50 features) - 2.0 GB
 🤖 Model: Random Forest (50 estimators, max_depth=15)
 📈 Accuracy: 87.42%
