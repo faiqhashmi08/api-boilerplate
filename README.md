@@ -101,7 +101,10 @@ Dataset Size	Samples	Features	Training Time	RAM Usage	Accuracy
 4 GB	10M	100	120 sec	7.5 GB	89%
 Benchmarked on AWS c5.2xlarge (8 vCPU, 16GB RAM)
 
+# AUTHOR
 GitHub Repository: https://github.com/faiqhashmi08/api-boilerplate
+Name: Muhammad Talha
+Roll No: F22BSEEN1E02094
 
 📊 Dataset: Synthetic (5M samples, 50 features) - 2.0 GB
 🤖 Model: Random Forest (50 estimators, max_depth=15)
