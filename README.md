@@ -37,6 +37,7 @@ python
 from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier(n_estimators=100)
 model.fit(X_train, y_train)
+
 5️⃣ Produce the Results in Graphs
 Accuracy / Loss curves (training vs validation)
 Confusion Matrix
