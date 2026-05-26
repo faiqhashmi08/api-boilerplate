@@ -35,15 +35,6 @@ This repository provides a **production-ready machine learning pipeline** for ha
 3. [Open Images V6](https://storage.googleapis.com/openimages/web/index.html) - Multiple GB
 4. [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) - 743MB
 
-## 🛠️ Tech Stack
-
-```mermaid
-graph LR
-    A[Large Dataset<br/>1GB+] --> B[Dask<br/>Distributed Load]
-    B --> C[Scikit-learn<br/>Preprocessing]
-    C --> D[Random Forest<br/>Classification]
-    D --> E[Matplotlib/Seaborn<br/>Visualization]
-    E --> F[Results<br/>& Metrics]
 
 🚀 API-BOILERPLATE: LARGE SCALE CLASSIFICATION PIPELINE
 
