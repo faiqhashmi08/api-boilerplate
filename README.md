@@ -125,5 +125,5 @@ cd api-boilerplate
 pip install -r requirements.txt
 python main.py
 
-# 💡 Open Source | MIT License | Contributions Welcome
+💡 Open Source | MIT License | Contributions Welcome
    
