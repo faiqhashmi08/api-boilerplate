@@ -71,27 +71,25 @@ additional_metrics.png	Class distribution & prediction confidence histograms
 # Project Structure
 text
 api-boilerplate/
-
 │
 ├── main.py      
-# Complete pipeline implementation
+Complete pipeline implementation
 ├── requirements.txt    
-# Python dependencies
+Python dependencies
 ├── README.md   
-# This file
+This file
 ├── LICENSE     
-# MIT License
+MIT License
 ├── .gitignore  
-# Git ignore rules
+Git ignore rules
 │
-
 ├── classification_results.png 
-# Main visualizations (generated)
+Main visualizations (generated)
 ├── additional_metrics.png 
-# Extra plots (generated)
+Extra plots (generated)
 │
 └── data/               
-# (Optional) Large dataset storage
+(Optional) Large dataset storage
     └── .gitkeep
 
 📊 Performance Benchmarks
