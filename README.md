@@ -55,8 +55,14 @@ git branch -M main
 git remote add origin https://github.com/yourusername/api-boilerplate.git
 git push -u origin main
 
+# README.md
 Add:
 README.md (project overview, setup, usage)
 requirements.txt or environment.yml
 LICENSE (MIT/Apache 2.0)
 .gitignore 
+
+# GitHub Repository: https://github.com/faiqhashmi08/api-boilerplate
+Dataset: Open Images V6 Sample (2.3 GB)
+Model: ResNet-50 (CNN)
+Accuracy: 87.4%
